@@ -1,6 +1,7 @@
 # Simple todo list created with React
-- add list item
-- remove list item
+- input form with add button
+- can add list item
+- can remove list item with a button
 
 
 # Getting Started with Create React App
