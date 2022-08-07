@@ -1,4 +1,4 @@
-#Simple todo list created with React
+# Simple todo list created with React
 - add list item
 - remove list item
 
